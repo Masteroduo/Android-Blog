@@ -55,7 +55,7 @@ So I'm currently on Rooted SparkOS with Magisk 25.5.
 
 [Aliucord](https://github.com/Aliucord/Aliucord) - Open Source Modded Version of Discord with many plugins and shit
 
-[[QuickSwitch]](https://t.me/QuickstepSwitcherReleases) - Allows me to Bypass Googles stinky rule of not preventing Gestures on third party Launchers(Root Required)
+[QuickSwitch](https://t.me/QuickstepSwitcherReleases) - Allows me to Bypass Googles stinky rule of not preventing Gestures on third party Launchers(Root Required)
 
 ---
 ### Magisk Modules I use 
