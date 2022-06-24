@@ -20,6 +20,8 @@ I hate him with every cell in my body and I think he should not exist because he
 
 So when I bought this phone I never had intentions of flashing customs on it. I was really happy with MIUI Android 10 version and I liked to use Lawnchair Launcher instead of MIUI launcher because MIUI launcher is dog shit. Anyway I made a mistake of updating to MIUI A11 and it all went downhill from there, I was unable to use Gestures with third party launchers cause Google and Xiaomi Broke it and they refused to fix it. I basically gave up on MIUI and applied for a bootloader unlock process the next week itself. 
 
+---
+
 ### My Tools of Trade
 
 ROM: SparkOS
@@ -30,6 +32,7 @@ RAM: 6GB
 
 ROM(kek): 128GB
 
+---
 ### ROM Journey
 
 So my first ROM LineageOS and It was an epic ROM but it lacked customisation and It was A11 and other ROMS where shipping with A12 so I flashed Derpfest and it was an awesome ROM at the beginning but the Maintainer messed it up thru updates and tree changes and now the battery on it sucks shit so I changed to Project Arcana which was an Awesome ROM but that too faced the same fate as Derpfest and kept on becoming shit through updates and then the main developer developer decided to stop maintaining Arcana and that was the end of that ROM. Then I hopped on to Nusantara Project but the Dev of that ROM has been known to have done sussy shit in the past so I ditched that rom as well. Then I switched to AOSP extended, ForkLineageOS, and CRDroid. All of them were shit until I found SparkOS which was the best ROM I found till now
@@ -37,4 +40,31 @@ So my first ROM LineageOS and It was an epic ROM but it lacked customisation and
 So I'm currently on Rooted SparkOS with Magisk 25.5.
 
 ![New Prosssject](https://user-images.githubusercontent.com/79645349/175531116-4b2287e2-e6c9-4ac7-9ebf-a034ea5ed5f7.png)
+
+---
+
+### Some important apps I use
+
+[Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en&gl=US) - Useful for backup and restore when I'm changing ROMS(Root Required)
+
+[Magisk](https://github.com/topjohnwu/Magisk) - For Rooting my device. I always stay on the latest version of Magisk
+
+[Gcam](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/) - I use the one by BSG because it supports Monet themeing and It supports all the lens on my device without any config files
+
+[Youtube Vanced(RIP)](https://t.me/AyraProject/1422) -  Modified version of Youtube with no Ads and Background play for Free
+
+[Aliucord](https://github.com/Aliucord/Aliucord) - Open Source Modded Version of Discord with many plugins and shit
+
+[[QuickSwitch]](https://t.me/QuickstepSwitcherReleases) - Allows me to Bypass Googles stinky rule of not preventing Gestures on third party Launchers(Root Required)
+
+---
+### Magisk Modules I use 
+
+[Sonals ANX Camera](https://www.pling.com/p/1730136/) - Basically Sonal Singh's(Pro dev btw) port of MIUI camera for AOSP ROMS
+
+[IOS 15.4 Emojis](https://t.me/fileschat/211278) - I use IOS emojis cause it looks better than Google's Emoji IN MY OPINION
+
+[Kdrag0n's Universal Safetynet Fix](https://github.com/kdrag0n/safetynet-fix/) - I need this or other Netflix wont stop bitching about not being able to Install
+
+[NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Helps me to bypass Google's stinky rule of not being to choose the Download's folder
 
