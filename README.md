@@ -32,7 +32,7 @@ ROM(kek): 128GB
 
 ### ROM Journey
 
-So my first ROM LineageOS and It was an epic ROM but it lacked customisation and It was A11 and other ROMS where shipping with A12 so I flashed Derpfest and it was an awesome ROM at the beginning but the Maintainer messed it up thru updates and tree changes and now the battery on it sucks shit so I changed to Project Arcana which was an Awesome ROM but that too faced the same fate as Derpfest and kept on becoming shit through updates and then the main developer developer decided to stop maintaining Arcana and that was the end of that ROM. Then I hopped on to Nusantara Project but the Dev of that ROM has been known to have done sussy shit in the past so I ditched that rom as well. Then I AOSP extended, ForkLineageOS, and CRDroid. All of them were shit until I found SparkOS which was the best ROM I found till now
+So my first ROM LineageOS and It was an epic ROM but it lacked customisation and It was A11 and other ROMS where shipping with A12 so I flashed Derpfest and it was an awesome ROM at the beginning but the Maintainer messed it up thru updates and tree changes and now the battery on it sucks shit so I changed to Project Arcana which was an Awesome ROM but that too faced the same fate as Derpfest and kept on becoming shit through updates and then the main developer developer decided to stop maintaining Arcana and that was the end of that ROM. Then I hopped on to Nusantara Project but the Dev of that ROM has been known to have done sussy shit in the past so I ditched that rom as well. Then I switched to AOSP extended, ForkLineageOS, and CRDroid. All of them were shit until I found SparkOS which was the best ROM I found till now
 
 So I'm currently on Rooted SparkOS with Magisk 25.5.
 
