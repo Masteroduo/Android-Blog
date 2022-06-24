@@ -1,2 +1,2 @@
-# AndroidBlog
-Cry about it
+# My Android Blog
+
