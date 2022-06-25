@@ -55,7 +55,7 @@ So I'm currently on Rooted SparkOS with Magisk 25.5.
 
 [Aliucord](https://github.com/Aliucord/Aliucord) - Open Source Modded Version of Discord with many plugins and shit
 
-[QuickSwitch](https://t.me/QuickstepSwitcherReleases) - Allows me to Bypass Googles stinky rule of not preventing Gestures on third party Launchers(Root Required)
+[QuickSwitch](https://t.me/QuickstepSwitcherReleases) - Allows me to Bypass Googles stinky rule of not allowing Gestures on third party Launchers(Root Required)
 
 ---
 ### Magisk Modules I use 
@@ -64,7 +64,7 @@ So I'm currently on Rooted SparkOS with Magisk 25.5.
 
 [IOS 15.4 Emojis](https://t.me/fileschat/211278) - I use IOS emojis cause it looks better than Google's Emoji IN MY OPINION
 
-[Kdrag0n's Universal Safetynet Fix](https://github.com/kdrag0n/safetynet-fix/) - I need this or other Netflix wont stop bitching about not being able to Install
+[Kdrag0n's Universal Safetynet Fix](https://github.com/kdrag0n/safetynet-fix/) - I need this or otherwise Netflix wont stop bitching about not being able to Install
 
 [NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Helps me to bypass Google's stinky rule of not being to choose the Download's folder
 
