@@ -24,13 +24,13 @@ So when I bought this phone I never had intentions of flashing customs on it. I 
 
 ### My Tools of Trade
 
-ROM: SparkOS
+#### ROM: SparkOS
 
-Phone: Redmi Note 9 Pro
+#### Phone: Redmi Note 9 Pro
 
-RAM: 6GB
+#### RAM: 6GB
 
-ROM(kek): 128GB
+#### ROM(kek): 128GB
 
 ---
 ### ROM Journey
@@ -56,6 +56,8 @@ So I'm currently on Rooted SparkOS with Magisk 25.5.
 [Aliucord](https://github.com/Aliucord/Aliucord) - Open Source Modded Version of Discord with many plugins and shit
 
 [QuickSwitch](https://t.me/QuickstepSwitcherReleases) - Allows me to Bypass Googles stinky rule of not allowing Gestures on third party Launchers(Root Required)
+
+[Lawnchair Launcher](https://t.me/lawnchairci) - A very good Launcher with which I cannot live without, comes with all sorts of gimmicks and functionalities which can't be found in other launchers like per app customisation, Monet themeing, 
 
 ---
 ### Magisk Modules I use 
