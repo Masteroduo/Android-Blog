@@ -70,3 +70,9 @@ So I'm currently on Rooted SparkOS with Magisk 25.5.
 
 [NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Helps me to bypass Google's stinky rule of not being to choose the Download's folder
 
+---
+### 29/06/2022 - Time for a Rom Hop?
+
+It seems like the battery life on SparkOS has been becoming shittier and unstable as time goes on. This is more apparent in the Screen off Drain which is pure dogshit. The active Drain is also crap but it sometimes decides to be 4-5%/h but other times it goes above 8%/h which is trash. Been thinking of changing ROMS but kinda lazy rn cause I have everything setup in SparkOS and changing ROMs means transfering, backup and all those shit. So far the ROM I have in my mind are Project Blaze, PixysOS, VoltageOS and CherishOS. However this time I want to try out the vanilla build with Gapps to get rid of the unwanted google bloatware like Assistant and Crap.
+
+![New Project](https://user-images.githubusercontent.com/79645349/176377906-c0a9ac2c-fd6b-40d6-9c09-3c1d83173d59.png)
