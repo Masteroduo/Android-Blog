@@ -76,3 +76,15 @@ So I'm currently on Rooted SparkOS with Magisk 25.5.
 It seems like the battery life on SparkOS has been becoming shittier and unstable as time goes on. This is more apparent in the Screen off Drain which is pure dogshit. The active Drain is also crap but it sometimes decides to be 4-5%/h but other times it goes above 8%/h which is trash. Been thinking of changing ROMS but kinda lazy rn cause I have everything setup in SparkOS and changing ROMs means transfering, backup and all those shit. So far the ROM I have in my mind are Project Blaze, PixysOS, VoltageOS and CherishOS. However this time I want to try out the vanilla build with Gapps to get rid of the unwanted google bloatware like Assistant and Crap.
 
 ![New Project](https://user-images.githubusercontent.com/79645349/176377906-c0a9ac2c-fd6b-40d6-9c09-3c1d83173d59.png)
+
+### 17/07/2022 Perfect ROM finally found?
+
+Taken from my last edit "so far the ROM I have in my mind are Project Blaze, PixysOS, VoltageOS and CherishOS". 
+
+So that was a lie. I Ended up choosing Ricedroid 3.0 By Skorpion and honestly the first few days the idle was dogshit and a very helpful person on Telegram pointed to me that you had to turn off "Pocket Mode" to get better Deepsleep. It was only then I realized that pocket mode caused Deepsleep issues and after I disabled it my idle drain and Deep sleep improved soo much. I highly recommend this ROM to anyone on Miatoll and is intrested in A12.1 Roms then I can recommend this ROM. Link to the ROM - https://www.pling.com/p/1849966/
+
+
+![Screenshot_20220717-132853_AccuBattery~2](https://user-images.githubusercontent.com/79645349/179394752-446b244d-2440-45d0-96c4-471743bdd0e2.png)
+
+
+
