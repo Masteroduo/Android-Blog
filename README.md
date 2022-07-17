@@ -77,6 +77,8 @@ It seems like the battery life on SparkOS has been becoming shittier and unstabl
 
 ![New Project](https://user-images.githubusercontent.com/79645349/176377906-c0a9ac2c-fd6b-40d6-9c09-3c1d83173d59.png)
 
+---
+
 ### 17/07/2022 Perfect ROM finally found?
 
 Taken from my last edit "so far the ROM I have in my mind are Project Blaze, PixysOS, VoltageOS and CherishOS". 
