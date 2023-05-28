@@ -88,5 +88,8 @@ So that was a lie. I Ended up choosing Ricedroid 3.0 By Skorpion and honestly th
 
 ![Screenshot_20220717-132853_AccuBattery~2](https://user-images.githubusercontent.com/79645349/179394752-446b244d-2440-45d0-96c4-471743bdd0e2.png)
 
+### 28/05/2023 Back to MEMEUI
 
+Due to issues with Banking Apps and battery and Video Quality on Gcam, I have gone back to MIUI although the EU version and not the Global Version. Device is no longer rooted anymore due to banking issues, Personally I miss AOSP ROMS but this works for me and is stable enough for day to day usage. I get an average SOT of 6 hours. I hate MIUI but I have no other choice as life is busy and I can't keep shifting ROMS like i used to do. MIUI doesnt have Monet themeing, its stil stuck on A12. I'm just gonna stick with this shit as it works for me so far.
 
+![Screenshot_2023-05-28-23-36-46-856_com android settings](https://github.com/Masteroduo/Android-Blog/assets/79645349/0af8dde6-af22-40f2-86f5-5528475739ce)
