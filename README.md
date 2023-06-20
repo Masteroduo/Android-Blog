@@ -93,3 +93,11 @@ So that was a lie. I Ended up choosing Ricedroid 3.0 By Skorpion and honestly th
 Due to issues with Banking Apps and battery and Video Quality on Gcam, I have gone back to MIUI although the EU version and not the Global Version. Device is no longer rooted anymore due to banking issues, Personally I miss AOSP ROMS but this works for me and is stable enough for day to day usage. I get an average SOT of 6 hours. I hate MIUI but I have no other choice as life is busy and I can't keep shifting ROMS like i used to do. MIUI doesnt have Monet themeing, its stil stuck on A12. I'm just gonna stick with this shit as it works for me so far.
 
 ![Screenshot_2023-05-28-23-36-46-856_com android settings](https://github.com/Masteroduo/Android-Blog/assets/79645349/0af8dde6-af22-40f2-86f5-5528475739ce)
+
+### 20/06/2023 "Final Thoughts: The Journey's End"
+
+Me being an hardcore android fan for solid 12 years, This story has come to an end. I have recently acquired an Iphone 12 Pro and with that it puts an end to my custom ROM and Modding journey, it has been fun and educating, learning stuff like how to unlock your bootloader, how to install custom recoveries, Rooting and subsequent trying to play rat and mice with banking apps. This blog will no longer be updated as modding is not possible much on iphone. it has been a fun journey with that this blog comes to an end, Goodbye - Masteroduo
+
+
+
+
